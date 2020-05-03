@@ -1,0 +1,17 @@
+{
+  "name": "Altair",
+  "displayName": "Altair",
+  "expo": {
+    "name": "Altair",
+    "slug": "Altair",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
